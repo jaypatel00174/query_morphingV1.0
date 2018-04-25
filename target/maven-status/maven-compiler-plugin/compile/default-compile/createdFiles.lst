@@ -1,9 +1,10 @@
 example/ExampleApplication$Parameterizer.class
-example/ExampleApplication.class
-example/QueryMorphing.class
-example/clique/CLIQUESubspace.class
 example/clique/CLIQUEInterval.class
+example/ExampleApplication.class
 example/clique/CLIQUEUnit.class
 example/ExampleAlgorithm.class
+example/QueryMorphing.class
+example/clique/CLIQUESubspace.class
+example/qmtest.class
 example/clique/CLIQUESubspace$CoverageComparator.class
 example/QueryMorphing$Parameterizer.class
