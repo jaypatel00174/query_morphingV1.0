@@ -4,5 +4,12 @@ de.lmu.ifi.dbs.elki.application.KDDCLIApplication
 -dbc.in
 /Users/jay/Desktop/implementation/data/synthetic/ABC-publication/pov-2.csv
 -algorithm
-example.qmtest
+example.querymopphing
+-querymorphing.xsi
+10
+-querymorphing.tau
+0.06
+-querymorphing.prune
+-externalresults.file
+/Users/jay/Desktop/implementation/data/synthetic/ABC-publication/pov-2.csv
 
